@@ -1,11 +1,14 @@
-## Hey there 👋, I'm [Ahmed Sabry!](https://github.com/ahmedsabry-dataeng)
-Data Engineer | AI & ML Enthusiast
+<div align="center">
+
+<h2> Hey there 👋, I'm [Ahmed Sabry!](https://github.com/Ahmed9sabry3?tab=repositories)</h2>
+<h2> Data Engineer | AI & ML Enthusiast</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
 
 ## Glad to see you here!
 
+</div>
 
 🚀 I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights.   
 With expertise in data ingestion, processing, and analytics, I focus on technologies like Python, Apache Spark, Kafka, AWS, SQL, and BigQuery. I've worked on real-world projects involving ETL workflows, data warehousing, and machine learning pipelines. My mission is to drive data-driven decisions that power innovative solutions.  
@@ -90,7 +93,6 @@ Like My Work?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmed9sabry3)
   
 </div>
 
