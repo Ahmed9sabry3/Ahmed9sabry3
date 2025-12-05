@@ -1,16 +1,20 @@
-### Hey there 👋, I'm [Ahmed Sabry!](https://github.com/ahmedsabry-dataeng)
+<div align="center">  
+## Hey there 👋, I'm [Ahmed Sabry!](https://github.com/ahmedsabry-dataeng)
 Data Engineer | AI & ML Enthusiast
+</div>
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
+<div align="center">  
+## Glad to see you here!
+</div>
 
-### Glad to see you here!
 
-
-I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights. 🚀  
+🚀 I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights.   
 With expertise in data ingestion, processing, and analytics, I focus on technologies like Python, Apache Spark, Kafka, AWS, SQL, and BigQuery. I've worked on real-world projects involving ETL workflows, data warehousing, and machine learning pipelines, drawing from experiences in fintech and delivery platforms like Fawry and Talabat. My mission is to drive data-driven decisions that power innovative solutions.  
 
-I'm a continuous learner and problem-solver, always exploring new tools in big data and cloud computing. When I'm not engineering data flows, you'll find me diving into tech blogs or experimenting with open-source contributions.  
-Feel free to connect with me on LinkedIn or drop an email at ahmed.s.sarhan02@gmail.com for data engineering discussions or collaborations! Let's build robust data systems together. 🌟  
+🌟 I'm a continuous learner and problem-solver, always exploring new tools in big data and cloud computing. When I'm not engineering data flows, you'll find me diving into tech blogs or experimenting with open-source contributions.  
+Feel free to connect with me on LinkedIn or drop an email at ahmed.s.sarhan02@gmail.com for data engineering discussions or collaborations! Let's build robust data systems together.   
 
 <hr>  
 <h3 align="left">✨ Random Dev Quote::</h3>  
