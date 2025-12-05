@@ -45,13 +45,13 @@ Like My Work?
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/simpleicons/simpleicons@latest/icons/googlebigquery.svg" title="BigQuery"></code>
+<img height="40" src="https://cdn.jsdelivr.net/gh/simpleicons/simpleicons@v11/icons/googlebigquery.svg" title="BigQuery">
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/simpleicons/simpleicons@latest/icons/dbt.svg" title="dbt"></code>
+<img height="40" src="https://cdn.jsdelivr.net/gh/simpleicons/simpleicons@v11/icons/dbt.svg" title="dbt">
 ### Projects and Dev Stuffs:  
 - **Smart Weather Forecasting for Agriculture Optimization by using Multispectral
  Images (Graduation Project)**:
