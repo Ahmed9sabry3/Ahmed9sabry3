@@ -1,91 +1,86 @@
-## Hey there 👋, I'm Ahmed Sabry
+# Hi 👋, I'm Ahmed Sabry Mohamed
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square\&logo=Twitter\&logoColor=white)](https://twitter.com/your_twitter)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square\&logo=Linkedin\&logoColor=white)](https://linkedin.com/in/ahmed-sabry)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square\&logo=Instagram\&logoColor=white)](https://instagram.com/your_instagram/)
+**Data Analyst | Data Engineer | AI & ML Enthusiast**
 
-### Glad to see you here!
+📍 Shibin Al Qanatir, Al Qalyubiyah, Egypt | 📧 [Email](mailto:ahmed.s.sarhan03@outlook.com) | 📞 01014279080
+[LinkedIn](https://www.linkedin.com/in/ahmed-sabry) | [GitHub](https://github.com/ahmed-sabry)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sabry&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Sabry" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-sabry/ahmed-sabry/master/gifs/data-engineer.gif" alt="Data Engineer GIF" width="400"/>
+</p>
 
-I am a **Data Engineer** passionate about building scalable data pipelines, transforming raw data into actionable insights, and enabling data-driven decision-making. 🚀
+---
 
-I have a strong foundation in **Python, SQL, ETL workflows, AWS, Cloud technologies**, and experience working with large datasets to support analytics and business intelligence. I enjoy optimizing data processes and implementing automation to improve efficiency.
+## 🚀 About Me
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not working with data, you'll find me reading about AI, cloud computing, and Big Data trends.
+I'm a **Data Analyst & Data Engineer** with a strong foundation in **Python, SQL, data visualization, machine learning, and cloud technologies**. I specialize in building **scalable data pipelines**, transforming raw data into actionable insights, and delivering **end-to-end data solutions** for real-world problems in agriculture, sustainability, and social good.
 
-Feel free to connect with me for collaborations or just to say hello! 🌟
+* 🔭 **Currently working on:** Data pipelines, dashboards & analytics workflows
+* 🌱 **Currently learning:** Cloud Data Engineering (AWS/GCP/Azure) & Big Data tools (Spark, Airflow, Kafka)
+* 💼 **Open to:** Data Engineering, Data Analysis, and AI/ML collaborations
+* 📫 **Reach me at:** [ahmed.s.sarhan03@outlook.com](mailto:ahmed.s.sarhan03@outlook.com)
+* 📄 **Portfolio:** [View My Projects](#)
 
-Joined Github **X** years ago.
+---
 
-Since then I pushed **XXX**+ commits, opened **XXX**+ issues, submitted **XXX**+ pull requests, created **XX**+ gists and contributed to **X**+ public repositories.
+## 💻 Tech Stack
 
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
+### Programming & Databases
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+### Data Engineering & Big Data
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-spark/apache-spark.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-airflow/apache-airflow.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-kafka/apache-kafka.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hadoop/hadoop.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+### Cloud Platforms & Services
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gcp/gcp.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+
+### Data Analysis & Visualization
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matplotlib/matplotlib.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/seaborn/seaborn.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/power-bi/power-bi.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png"></code>
+
+### Machine Learning & AI
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/keras/keras.png"></code>
+
+### Development Tools
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter/jupyter.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dax/dax.png"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/power-query/power-query.png"></code>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-sabry&theme=react-dark" />
+</p>
+
+---
+
+## ✍️ Developer Wisdom
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
-<hr>
 
-Like My Work?
+💡 Keep pushing code, keep learning, keep growing! 💡
 
-<a href="https://www.buymeacoffee.com/ahmedsabry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+---
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmed-sabry/ahmed-sabry/master/gifs/data-engineer.gif" />
+## 🔝 Featured Projects
 
-### Talking about Personal Stuff:
+* **Smart Weather Forecasting for Agriculture Optimization**: API integration with NASA’s Copernicus for satellite imagery, CNN/RNN models for crop & soil predictions.
+* **Weather Forecasting Model (RNN Time Series)**: Forecast meteorological variables using deep learning and historical data.
+* **House Prices Prediction**: Machine learning model to predict real estate prices.
+* **Iris Flower Classification**: ML model for classifying Iris species.
+* **Diabetes Prediction**: Predictive model based on patient medical data.
 
-* 🛠   I’m currently working with Python, SQL, AWS, ETL pipelines, and Data Warehousing.
-* 🚀   I’m currently exploring Big Data tools, Cloud Data Engineering, and AI/ML integrations.
-* 💬   Ask me anything [here](https://github.com/ahmed-sabry/issues)! I am happy to help.
-* 👾   Fun fact: Data quality is as important as data quantity.
-* 📫   Reach me out: [ahmed.sabry@example.com](mailto:ahmed.sabry@example.com).
+---
 
-### My Absolute Favorites:
+## 💬 Let's Connect & Collaborate!
 
-* 💻   I love exploring new technologies and building data pipelines.
-* 📰   Reading, writing & watching tech & data-related content.
-* 🍕   Meetups & Hackathons related to Data & AI.
+Open to opportunities in **Data Engineering, Data Analysis, and AI/ML Projects**
 
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-spark/apache-spark.png" alt="spark"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" alt="airflow"></code>
-
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-sabry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-sabry&exclude_repo=&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sabry&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows / Linux</li>
-	    <li><b>Laptop: </b> Macbook / Custom PC</li>
-  	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Terminal:</b> ZSH / PowerShell</li>
-	    <li><b>Code Editor:</b> VSCode</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden, DBeaver</li>
-	    <li><b>To Stay Updated:</b> Twitter, Medium, Hacker News</li>
-	</ul>
-</details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square\&logo=Linkedin\&logoColor=white)](https://linkedin.com/in/ahmed-sabry) [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:ahmed.s.sarhan03@outlook.com) [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ahmed-sabry)
