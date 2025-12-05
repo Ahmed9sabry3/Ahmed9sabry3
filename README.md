@@ -1,13 +1,10 @@
-<div align="center">  
 ## Hey there 👋, I'm [Ahmed Sabry!](https://github.com/ahmedsabry-dataeng)
 Data Engineer | AI & ML Enthusiast
-</div>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
-<div align="center">  
+
 ## Glad to see you here!
-</div>
 
 
 🚀 I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights.   
