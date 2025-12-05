@@ -45,14 +45,13 @@ Like My Work?
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"></code>
-![BigQuery](https://cdn.jsdelivr.net/gh/simple-icons/simpleicons/icons/googlebigquery.png)
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"></code>
-![dbt](https://cdn.jsdelivr.net/gh/simple-icons/simpleicons/icons/dbt.png)
-### Projects and Dev Stuffs:  
+
+### Projects :  
 - **Smart Weather Forecasting for Agriculture Optimization by using Multispectral
  Images (Graduation Project)**:
   Developed an API integration with NASA’s Copernicus program to retrieve real-time satellite images across
