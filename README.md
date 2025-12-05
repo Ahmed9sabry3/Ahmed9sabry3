@@ -80,27 +80,18 @@ Like My Work?
    Adataset containing patient medical data was used to predict whether a person has diabetes or not.
  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedsabry-dataeng)
+
 
 <br>
 
 <div align="center">
   <h2>💬 Let's Connect & Collaborate!</h2>
   <p>Open to opportunities in <strong>Data Engineering</strong>, <strong>Data Analytics</strong>, <strong>Big Data</strong>, and <strong>AI/ML Pipelines</strong></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmed9sabry3)
   
-  <a href="https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/" target="_blank">
-    <img src="https://img.shields.io/badge/in/ahmed-sabry-mohamed-794b51287?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:ahmed.s.sarhan02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ahmedsabry-dataeng" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
 <br>
