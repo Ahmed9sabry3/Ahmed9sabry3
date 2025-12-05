@@ -8,9 +8,9 @@ Data Engineer | AI & ML Enthusiast
 
 
 🚀 I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights.   
-With expertise in data ingestion, processing, and analytics, I focus on technologies like Python, Apache Spark, Kafka, AWS, SQL, and BigQuery. I've worked on real-world projects involving ETL workflows, data warehousing, and machine learning pipelines, drawing from experiences in fintech and delivery platforms like Fawry and Talabat. My mission is to drive data-driven decisions that power innovative solutions.  
+With expertise in data ingestion, processing, and analytics, I focus on technologies like Python, Apache Spark, Kafka, AWS, SQL, and BigQuery. I've worked on real-world projects involving ETL workflows, data warehousing, and machine learning pipelines. My mission is to drive data-driven decisions that power innovative solutions.  
 
-🌟 I'm a continuous learner and problem-solver, always exploring new tools in big data and cloud computing. When I'm not engineering data flows, you'll find me diving into tech blogs or experimenting with open-source contributions.  
+🌟 I'm a continuous learner and problem-solver, always exploring new tools in big data and cloud computing.  
 Feel free to connect with me on LinkedIn or drop an email at ahmed.s.sarhan02@gmail.com for data engineering discussions or collaborations! Let's build robust data systems together.   
 
 <hr>  
@@ -80,8 +80,28 @@ Like My Work?
    Adataset containing patient medical data was used to predict whether a person has diabetes or not.
  
 
-  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedsabry-dataeng)
 
-<div align="center">  
-### Show some ❤️ by starring some of the repositories!  
+<br>
+
+<div align="center">
+  <h2>💬 Let's Connect & Collaborate!</h2>
+  <p>Open to opportunities in <strong>Data Engineering</strong>, <strong>Data Analytics</strong>, <strong>Big Data</strong>, and <strong>AI/ML Pipelines</strong></p>
+  
+  <a href="https://www.linkedin.com/in/ahmed-sabry-mohamed-794b51287/" target="_blank">
+    <img src="https://img.shields.io/badge/in/ahmed-sabry-mohamed-794b51287?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:ahmed.s.sarhan02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ahmedsabry-dataeng" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
+
+<br>
+<hr>
