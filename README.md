@@ -8,6 +8,8 @@
 
 <h2> Glad to see you here!</h2>
 
+<hr>
+
 </div>
 
 🚀 I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights.   
