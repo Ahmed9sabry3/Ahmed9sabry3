@@ -45,54 +45,41 @@ Like My Work?
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bigquery/bigquery-original.svg" title="BigQuery"></code>
+<code><img height="40" src="https://developers.google.com/analytics/devguides/reporting/data/v1/images/bigquery-logo.png" title="BigQuery"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" title="dbt"></code> 
-
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/simpleicons/simpleicons@latest/icons/dbt.svg" title="dbt"></code>
 ### Projects and Dev Stuffs:  
 - **Smart Weather Forecasting for Agriculture Optimization by using Multispectral
  Images (Graduation Project)**:
- • Developed an API integration with NASA’s Copernicus program to retrieve real-time satellite images across
+  Developed an API integration with NASA’s Copernicus program to retrieve real-time satellite images across
  various light wavelengths.
- • Applied CNN, TensorFlow, and Scikit-Learn to identify patterns in crop health, soil composition, and
+  Applied CNN, TensorFlow, and Scikit-Learn to identify patterns in crop health, soil composition, and
  environmental factors.
- • Built a weather forecasting system using satellite data, deep learning models (CNN, RNN), and rule-based
+   Built a weather forecasting system using satellite data, deep learning models (CNN, RNN), and rule-based
  methods to enhance agricultural predictions.
- • Predicted soil functionality and weather conditions by implementing machine learning models based on
+   Predicted soil functionality and weather conditions by implementing machine learning models based on
  historical and satellite data.
  - **Weather Forecasting Model using Rnn time series**:
- • Built and implemented machine learning models to forecast weather conditions using historical data and
+   Built and implemented machine learning models to forecast weather conditions using historical data and
  satellite imagery, validating outcomes against established research.
- • Developed a prediction system for meteorological variables such as temperature, precipitation, humidity, wind
+   Developed a prediction system for meteorological variables such as temperature, precipitation, humidity, wind
  speed, and atmospheric pressure to improve forecast reliability.
- • Applied statistical methods, machine learning algorithms, and data sources including RNN time series, LSTMs,
+   Applied statistical methods, machine learning algorithms, and data sources including RNN time series, LSTMs,
  TensorFlow, Scikit-Learn, and SVM to enhance accuracy.
- • Analyzed 20 years of meteorological data (1999–2019) using deep neural networks to optimize prediction
+   Analyzed 20 years of meteorological data (1999–2019) using deep neural networks to optimize prediction
  precision.
  - **Predicting House Prices**:
- • Adataset containing information about home features was used to predict their selling prices.
+   Adataset containing information about home features was used to predict their selling prices.
  - **Classify Iris Flowers**:
- • The popular iris dataset was used to build a model that could classify iris flowers based on the dimensions of
+   The popular iris dataset was used to build a model that could classify iris flowers based on the dimensions of
  their sepals and petals.
  - **Diabetes Prediction**:
- • Adataset containing patient medical data was used to predict whether a person has diabetes or not.
-
-<details>  
-  <summary><b>⚡ Github Stats</b></summary>  
-  <br />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedsabry-dataeng&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsabry-dataeng&exclude_repo=example&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</details>  
-
-<details>  
-  <summary><b>☄️ Github Streaks</b></summary>  
-  <br />  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsabry-dataeng&hide_border=true" />  
-</details>  
+   Adataset containing patient medical data was used to predict whether a person has diabetes or not.
+ 
 
   
 
