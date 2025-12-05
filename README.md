@@ -3,16 +3,12 @@
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.s.sarhan02@gmail.com)
 
 ### Glad to see you here!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsabry-dataeng&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsabry-dataeng" /> </p>
 
 I am a Data Engineer passionate about building scalable data pipelines and transforming raw data into actionable insights. 🚀  
 With expertise in data ingestion, processing, and analytics, I focus on technologies like Python, Apache Spark, Kafka, AWS, SQL, and BigQuery. I've worked on real-world projects involving ETL workflows, data warehousing, and machine learning pipelines, drawing from experiences in fintech and delivery platforms like Fawry and Talabat. My mission is to drive data-driven decisions that power innovative solutions.  
 
 I'm a continuous learner and problem-solver, always exploring new tools in big data and cloud computing. When I'm not engineering data flows, you'll find me diving into tech blogs or experimenting with open-source contributions.  
 Feel free to connect with me on LinkedIn or drop an email at ahmed.s.sarhan02@gmail.com for data engineering discussions or collaborations! Let's build robust data systems together. 🌟  
-
-Joined GitHub **2** years ago.  
-Since then, I pushed **150**+ commits, opened **20**+ issues, submitted **50**+ pull requests, created **5**+ gists, and contributed to **3**+ public repositories.  
 
 <hr>  
 <h3 align="left">✨ Random Dev Quote::</h3>  
@@ -29,8 +25,6 @@ Like My Work?
 ### Talking about Personal Stuff:  
 - 🛠 &nbsp; I’m currently working with Python, Spark, Kafka, AWS, etc.  
 - 🚀 &nbsp; I’m currently exploring Big Data pipelines, Gen AI for data processing, and scalable ETL tools.  
-- 💬 &nbsp; Ask me anything [here](https://github.com/ahmedsabry-dataeng/ahmedsabry-dataeng/issues/1)! I am happy to help with data engineering queries.  
-- 👾 &nbsp; Fun fact: Data never lies, but it sure can be messy!  
 - 📫 &nbsp; Reach me out: ahmed.s.sarhan02@gmail.com.  
 
 ### My Absolute Favorites:  
@@ -39,22 +33,53 @@ Like My Work?
 - 🍕 &nbsp; Contributing to open-source data projects and attending data meetups.  
 
 ### Languages and Tools:  
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>  
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>  
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-spark/apache-spark.png" alt="spark"></code>  
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-spark/apache-spark.png" alt="spark"></code> 
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-kafka/apache-kafka.png" alt="kafka"></code>  
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>  
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="gcp"></code>  
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>  
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes"></code>  
+
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>  
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>  
 
 ### Projects and Dev Stuffs:  
-Based on your CV highlights, here are some key projects (feel free to link your actual repos):  
-- **Fawry Data Pipeline**: Designed an ETL pipeline for payment processing using Apache Airflow, Spark, and AWS S3 to handle real-time transaction data, improving query performance by 40%.  
-- **Talabat Analytics Pipeline**: Built a scalable data ingestion system with Kafka and BigQuery for order and delivery analytics, enabling predictive insights for logistics optimization.  
-- **Personal Data Lake Project**: Implemented a medallion architecture (Bronze/Silver/Gold layers) with Delta Lake and dbt for open-source datasets, focusing on data quality and governance.  
+- **Smart Weather Forecasting for Agriculture Optimization by using Multispectral
+ Images (Graduation Project)**:
+ • Developed an API integration with NASA’s Copernicus program to retrieve real-time satellite images across
+ various light wavelengths.
+ • Applied CNN, TensorFlow, and Scikit-Learn to identify patterns in crop health, soil composition, and
+ environmental factors.
+ • Built a weather forecasting system using satellite data, deep learning models (CNN, RNN), and rule-based
+ methods to enhance agricultural predictions.
+ • Predicted soil functionality and weather conditions by implementing machine learning models based on
+ historical and satellite data.
+ - **Weather Forecasting Model using Rnn time series**:
+ • Built and implemented machine learning models to forecast weather conditions using historical data and
+ satellite imagery, validating outcomes against established research.
+ • Developed a prediction system for meteorological variables such as temperature, precipitation, humidity, wind
+ speed, and atmospheric pressure to improve forecast reliability.
+ • Applied statistical methods, machine learning algorithms, and data sources including RNN time series, LSTMs,
+ TensorFlow, Scikit-Learn, and SVM to enhance accuracy.
+ • Analyzed 20 years of meteorological data (1999–2019) using deep neural networks to optimize prediction
+ precision.
+ - **Predicting House Prices**:
+ • Adataset containing information about home features was used to predict their selling prices.
+ - **Classify Iris Flowers**:
+ • The popular iris dataset was used to build a model that could classify iris flowers based on the dimensions of
+ their sepals and petals.
+ - **Diabetes Prediction**:
+ • Adataset containing patient medical data was used to predict whether a person has diabetes or not.
 
 <details>  
   <summary><b>⚡ Github Stats</b></summary>  
